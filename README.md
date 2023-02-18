@@ -3,7 +3,8 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Link to project: https://dallas-astronomy-club.netlify.app/
 
-![Alt text](http://url/to/img.png](https://i.ibb.co/vYrx2YV/Screenshot-2023-02-18-at-4-41-41-PM.png)
+<img width="1489" alt="Screenshot 2023-02-18 at 4 41 41 PM" src="https://user-images.githubusercontent.com/113389785/219903947-c2949a71-3c04-45e7-b0d6-e37e87e8a1f6.png">
+<img width="1549" alt="Screenshot 2023-02-18 at 4 41 24 PM" src="https://user-images.githubusercontent.com/113389785/219903933-6064f9ff-0ade-4fb8-a042-416a3ce15ca6.png">
 
 How It's Made:
 Tech used: HTML, CSS & JavaScript
@@ -17,4 +18,6 @@ You don't have to include this section but interviewers love that you can not on
 
 Lessons Learned:
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or fuck yeah I did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+
+
 
