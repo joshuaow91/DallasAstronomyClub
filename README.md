@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Link to project: https://dallas-astronomy-club.netlify.app/
 
-![alt text](http://url/to/img.png](https://i.ibb.co/vYrx2YV/Screenshot-2023-02-18-at-4-41-41-PM.png)
+![Alt text](http://url/to/img.png](https://i.ibb.co/vYrx2YV/Screenshot-2023-02-18-at-4-41-41-PM.png)
 
 How It's Made:
 Tech used: HTML, CSS & JavaScript
